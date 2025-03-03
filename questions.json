@@ -1,14 +1,14 @@
 [
     {
         "question": "What is the capital of France?",
-        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "options": ["Paris", "London", "Berlin", "Rome"],
         "answer": "Paris",
-        "explanation": "Paris is the capital city of France."
+        "explanation": "Paris is the capital and largest city of France."
     },
     {
-        "question": "What is 5 + 3?",
-        "options": ["5", "8", "9", "7"],
-        "answer": "8",
-        "explanation": "5 plus 3 equals 8."
+        "question": "What year did the Titanic sink?",
+        "options": ["1912", "1915", "1905", "1898"],
+        "answer": "1912",
+        "explanation": "The Titanic sank on April 15, 1912, after hitting an iceberg."
     }
 ]
