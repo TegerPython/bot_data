@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris",
+        "explanation": "Paris is the capital city of France."
+    },
+    {
+        "question": "What is 5 + 3?",
+        "options": ["5", "8", "9", "7"],
+        "answer": "8",
+        "explanation": "5 plus 3 equals 8."
+    }
+]
