@@ -1,7 +1,7 @@
 [
     {
-        "question": "Question 1",
-        "options": ["A", "B", "C"],
-        "correct_option": 0, // Extra comma here
+        "question": "What is the capital of France?",
+        "options": ["London", "Paris", "Berlin"],
+        "correct_option": 1
     }
 ]
