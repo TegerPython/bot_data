@@ -1,0 +1,13 @@
+[
+    {
+        "question": "Question 1?",
+        "options": ["Option A", "Option B", "Option C", "Option D"],
+        "correct_option": 2  // Index of the correct option (0-based)
+    },
+    {
+        "question": "Question 2?",
+        "options": ["Option E", "Option F", "Option G", "Option H"],
+        "correct_option": 0
+    },
+    // ... up to 10 questions
+]
