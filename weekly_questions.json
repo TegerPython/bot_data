@@ -2,7 +2,7 @@
     {
         "question": "Question 1",
         "options": ["A", "B", "C"],
-        "correct_option": 0
+        "correct_option": 0,
     } // Missing comma here
     {
         "question": "Question 2",
