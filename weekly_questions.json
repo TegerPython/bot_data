@@ -1,13 +1,12 @@
 [
     {
-        "question": "Question 1?",
-        "options": ["Option A", "Option B", "Option C", "Option D"],
-        "correct_option": 2  // Index of the correct option (0-based)
-    },
-    {
-        "question": "Question 2?",
-        "options": ["Option E", "Option F", "Option G", "Option H"],
+        "question": "Question 1",
+        "options": ["A", "B", "C"],
         "correct_option": 0
-    },
-    // ... up to 10 questions
+    } // Missing comma here
+    {
+        "question": "Question 2",
+        "options": ["D", "E", "F"],
+        "correct_option": 1
+    }
 ]
