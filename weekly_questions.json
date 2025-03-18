@@ -1,7 +1,992 @@
 [
-    {
-        "question": "What is the capital of France?",
-        "options": ["London", "Paris", "Berlin"],
-        "correct_option": 1
-    }
+  {
+    "question": "Which sentence uses the subjunctive mood correctly?",
+    "options": [
+      "If I was you, I'd take the job.",
+      "If I were you, I'd take the job.",
+      "If I am you, I'd take the job.",
+      "If I be you, I'd take the job."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly employs the subjunctive mood in a wish statement?",
+    "options": [
+      "I wish I was taller.",
+      "I wish I were taller.",
+      "I wish I am taller.",
+      "I wish I be taller."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Choose the sentence that uses the subjunctive mood for a recommendation.",
+    "options": [
+      "It is essential that she studies hard.",
+      "It is essential that she study hard.",
+      "It is essential that she is studying hard.",
+      "It is essential that she will study hard."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence with the correct use of the subjunctive in a formal demand.",
+    "options": [
+      "The committee insists that the report is finished by Monday.",
+      "The committee insists that the report be finished by Monday.",
+      "The committee insists that the report was finished by Monday.",
+      "The committee insists that the report finishing by Monday."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly uses the subjunctive after 'as if'?",
+    "options": [
+      "He spends money as if he were a millionaire.",
+      "He spends money as if he is a millionaire.",
+      "He spends money as if he was a millionaire.",
+      "He spends money as if he will be a millionaire."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence demonstrates the correct use of the subjunctive in a hypothetical scenario?",
+    "options": [
+      "If she were here, she would know what to do.",
+      "If she was here, she would know what to do.",
+      "If she is here, she would know what to do.",
+      "If she be here, she would know what to do."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Select the sentence using the subjunctive mood in a suggestion correctly.",
+    "options": [
+      "I suggest that he goes to the meeting.",
+      "I suggest that he go to the meeting.",
+      "I suggest that he went to the meeting.",
+      "I suggest that he going to the meeting."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence that correctly uses the subjunctive for a counterfactual condition.",
+    "options": [
+      "If I had known, I would have acted differently.",
+      "If I knew, I would have acted differently.",
+      "If I know, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence uses the subjunctive correctly in a formal proposal?",
+    "options": [
+      "It is important that every member attends the meeting.",
+      "It is important that every member attend the meeting.",
+      "It is important that every member attending the meeting.",
+      "It is important that every member has attended the meeting."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence uses the subjunctive mood correctly in expressing a wish about ability?",
+    "options": [
+      "I wish I was able to attend the event.",
+      "I wish I were able to attend the event.",
+      "I wish I am able to attend the event.",
+      "I wish I be able to attend the event."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence avoids a dangling modifier?",
+    "options": [
+      "After reading the book, the movie was disappointing.",
+      "After reading the book, she found the movie disappointing.",
+      "After reading the book, disappointment set in.",
+      "After reading the book, the disappointment was overwhelming."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence corrects the misplaced modifier regarding daily routines?",
+    "options": [
+      "She almost drove her kids to school every day.",
+      "She drove her kids to school almost every day.",
+      "She drove almost her kids to school every day.",
+      "Almost, she drove her kids to school every day."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly places the modifier in describing a lecture?",
+    "options": [
+      "The teacher gave a lecture on grammar that was engaging.",
+      "The teacher gave an engaging lecture on grammar.",
+      "The teacher, engaging on grammar, gave a lecture.",
+      "The teacher gave a lecture on grammar, engaging."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence with no dangling modifier in a context of outdoor activity.",
+    "options": [
+      "While jogging in the park, the rain started suddenly.",
+      "While jogging in the park, he noticed the rain starting suddenly.",
+      "While jogging in the park, the rain was noticed suddenly.",
+      "While jogging in the park, a sudden rain started."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly positions the modifier describing the student?",
+    "options": [
+      "The student nearly failed every exam in the course.",
+      "Nearly, the student failed every exam in the course.",
+      "The student failed nearly every exam in the course.",
+      "The student failed every exam nearly in the course."
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Which sentence avoids ambiguity by placing the modifier next to the noun it describes?",
+    "options": [
+      "She almost answered every question correctly.",
+      "She answered almost every question correctly.",
+      "Almost she answered every question correctly.",
+      "She answered every question almost correctly."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Choose the sentence that correctly avoids a misplaced modifier regarding time of day.",
+    "options": [
+      "After dinner, the television was turned on by the kids.",
+      "The kids turned on the television after dinner.",
+      "After dinner, turned on the television were the kids.",
+      "The kids, after dinner, turned on the television."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly attributes the modifier 'excited'?",
+    "options": [
+      "Excited, the concert was attended by many fans.",
+      "Excited, many fans attended the concert.",
+      "The concert was attended by many excited fans.",
+      "Many fans attended the excited concert."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence that correctly eliminates a dangling participle regarding driving.",
+    "options": [
+      "Driving home, the storm started unexpectedly.",
+      "Driving home, he encountered a sudden storm.",
+      "Driving home, a sudden storm was encountered.",
+      "Driving home, the sudden storm greeted him."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence properly modifies the subject to avoid confusion about baking?",
+    "options": [
+      "After baking for hours, the cake was finally ready.",
+      "After baking for hours, she found the cake was finally ready.",
+      "After hours of baking, the cake was finally ready.",
+      "After hours of baking, her cake was ready."
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Which sentence correctly uses the present perfect continuous tense?",
+    "options": [
+      "She has been working here since five years.",
+      "She has been working here for five years.",
+      "She is working here for five years.",
+      "She worked here since five years."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence that correctly uses the past perfect tense.",
+    "options": [
+      "He had finished his work before the meeting started.",
+      "He finished his work before the meeting had started.",
+      "He had finished his work before the meeting has started.",
+      "He finished his work before the meeting started."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence demonstrates the present perfect continuous tense for an ongoing action?",
+    "options": [
+      "They have been playing soccer for two hours.",
+      "They are playing soccer for two hours.",
+      "They play soccer for two hours.",
+      "They were playing soccer for two hours."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence that correctly uses the past perfect subjunctive in a hypothetical statement.",
+    "options": [
+      "If she had been more careful, she would not have made the mistake.",
+      "If she was more careful, she would not have made the mistake.",
+      "If she were more careful, she would not have made the mistake.",
+      "If she is more careful, she would not have made the mistake."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence properly distinguishes between the simple past and present perfect?",
+    "options": [
+      "I visited Paris last summer.",
+      "I have visited Paris last summer.",
+      "I have visited Paris this summer.",
+      "I visited Paris this summer."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence that correctly uses the future perfect tense.",
+    "options": [
+      "By next year, she will have completed her degree.",
+      "By next year, she will complete her degree.",
+      "By next year, she completes her degree.",
+      "By next year, she has completed her degree."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence demonstrates the past perfect continuous tense correctly?",
+    "options": [
+      "He had been studying for hours before the exam started.",
+      "He was studying for hours before the exam started.",
+      "He had studied for hours before the exam started.",
+      "He studied for hours before the exam started."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly uses the simple present for habitual actions?",
+    "options": [
+      "She is eating breakfast every day.",
+      "She eats breakfast every day.",
+      "She has eaten breakfast every day.",
+      "She will eat breakfast every day."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Choose the sentence that accurately reflects a completed action in the past.",
+    "options": [
+      "I have finished my homework.",
+      "I had finished my homework.",
+      "I finished my homework.",
+      "I finish my homework."
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Which sentence correctly uses the present perfect to describe an experience?",
+    "options": [
+      "I have visited Italy twice.",
+      "I visited Italy twice.",
+      "I have visit Italy twice.",
+      "I visit Italy twice."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly uses a colon to introduce a list?",
+    "options": [
+      "She has three favorite fruits: apples, oranges, and grapes.",
+      "She has three favorite fruits, apples, oranges, and grapes.",
+      "She has three favorite fruits; apples, oranges, and grapes.",
+      "She has three favorite fruits - apples, oranges, and grapes."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence with correct semicolon usage between independent clauses.",
+    "options": [
+      "He loves to read; he often visits the library.",
+      "He loves to read, he often visits the library.",
+      "He loves to read; and he often visits the library.",
+      "He loves to read: he often visits the library."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly employs a comma with a coordinating conjunction?",
+    "options": [
+      "She wanted to go for a walk, but it was raining.",
+      "She wanted to go for a walk but, it was raining.",
+      "She wanted to go for a walk but it was raining.",
+      "She, wanted to go for a walk but it was raining."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence properly uses a dash for emphasis?",
+    "options": [
+      "Her decision—unexpected by everyone—shocked the group.",
+      "Her decision, unexpected by everyone, shocked the group.",
+      "Her decision: unexpected by everyone, shocked the group.",
+      "Her decision; unexpected by everyone; shocked the group."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence with correct use of quotation marks.",
+    "options": [
+      "He said, \"I am ready to start.\"",
+      "He said \"I am ready to start.\"",
+      "He said, 'I am ready to start.'",
+      "He said \"I am ready to start.\""
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly introduces a list using a colon?",
+    "options": [
+      "She has three favorite fruits: apples, oranges, and grapes.",
+      "She has three favorite fruits, apples, oranges, and grapes.",
+      "She has three favorite fruits; apples, oranges, and grapes.",
+      "She has three favorite fruits - apples, oranges, and grapes."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence that correctly uses commas to set off a nonessential clause.",
+    "options": [
+      "My brother who lives in Canada is visiting.",
+      "My brother, who lives in Canada, is visiting.",
+      "My brother, who lives in Canada is visiting.",
+      "My brother who, lives in Canada, is visiting."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly uses an Oxford comma?",
+    "options": [
+      "I bought apples, oranges and bananas.",
+      "I bought apples, oranges, and bananas.",
+      "I bought, apples, oranges, and bananas.",
+      "I bought apples, oranges; and bananas."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence with correct punctuation in a compound-complex sentence.",
+    "options": [
+      "When I arrived, the party was over; I decided to go home.",
+      "When I arrived the party was over, I decided to go home.",
+      "When I arrived, the party was over, I decided to go home.",
+      "When I arrived; the party was over, I decided to go home."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence uses parentheses correctly?",
+    "options": [
+      "The committee (which was newly formed) made the decision quickly.",
+      "The committee, (which was newly formed), made the decision quickly.",
+      "The committee (which was newly formed, made the decision quickly.",
+      "The committee which was newly formed made the decision quickly (without delay)."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence demonstrates correct parallel structure?",
+    "options": [
+      "She likes reading, to write, and painting.",
+      "She likes reading, writing, and painting.",
+      "She likes to read, writing, and to paint.",
+      "She likes reading, to write, and to paint."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence shows proper parallelism in listing activities?",
+    "options": [
+      "He enjoys hiking, swimming, and to bike.",
+      "He enjoys hiking, swimming, and biking.",
+      "He enjoys hiking, to swim, and biking.",
+      "He enjoys to hike, swimming, and to bike."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence with balanced parallel structure in describing qualities.",
+    "options": [
+      "The company values honesty, integrity, and being punctual.",
+      "The company values honesty, integrity, and punctuality.",
+      "The company values being honest, integrity, and punctuality.",
+      "The company values honesty, being of integrity, and punctuality."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence uses parallel structure correctly with a correlative conjunction?",
+    "options": [
+      "Not only did she sing beautifully, but she also danced gracefully.",
+      "Not only did she sing beautifully, but she danced gracefully.",
+      "Not only did she sing, but she also danced gracefully.",
+      "Not only did she sing beautifully, but she also gracefully danced."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence that maintains parallel structure in a series of tasks.",
+    "options": [
+      "The tasks include writing reports, analyzing data, and to present findings.",
+      "The tasks include writing reports, analyzing data, and presenting findings.",
+      "The tasks include to write reports, analyzing data, and presenting findings.",
+      "The tasks include writing reports, to analyze data, and presenting findings."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence demonstrates parallelism with infinitive phrases?",
+    "options": [
+      "Her goal is to run a marathon, to write a book, and to travel the world.",
+      "Her goal is running a marathon, writing a book, and traveling the world.",
+      "Her goal is to run a marathon, writing a book, and to travel the world.",
+      "Her goal is running a marathon, to write a book, and travel the world."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence uses parallel structure with adjectives correctly?",
+    "options": [
+      "The novel is intriguing, suspenseful, and full of mystery.",
+      "The novel is intriguing, suspenseful, and mysteriously written.",
+      "The novel is intriguingly written, suspenseful, and full of mystery.",
+      "The novel is intriguing, with suspense, and mystery."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence that correctly applies parallelism in a compound predicate.",
+    "options": [
+      "She prepared a meal and to set the table.",
+      "She prepared a meal and set the table.",
+      "She prepared a meal and was setting the table.",
+      "She prepared a meal, setting the table."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence maintains parallelism in a comparison?",
+    "options": [
+      "Her singing is as beautiful as it is moving.",
+      "Her singing is as beautiful as being moving.",
+      "Her singing is as beautiful as it moves.",
+      "Her singing is as beautiful as to be moving."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence uses a relative pronoun correctly?",
+    "options": [
+      "The author who wrote the book is famous.",
+      "The author which wrote the book is famous.",
+      "The author, that wrote the book, is famous.",
+      "The author, who wrote the book is famous."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence with the correct use of the possessive pronoun.",
+    "options": [
+      "That is her book, not hers.",
+      "That is hers book, not her.",
+      "That book is hers, not her.",
+      "That book is her, not hers."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly uses a reflexive pronoun?",
+    "options": [
+      "She prepared herself for the presentation.",
+      "She prepared her for the presentation.",
+      "She prepared hisself for the presentation.",
+      "She prepared themself for the presentation."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence that correctly uses a nonrestrictive relative clause.",
+    "options": [
+      "My car, which is red, is parked outside.",
+      "My car which is red, is parked outside.",
+      "My car, that is red, is parked outside.",
+      "My car that is red, is parked outside."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly distinguishes between 'who' and 'whom'?",
+    "options": [
+      "To whom did you give the book?",
+      "To who did you give the book?",
+      "Who did you give the book to?",
+      "Who did you give the book?"
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly uses the pronoun 'whose'?",
+    "options": [
+      "The student whose paper was well-received won an award.",
+      "The student who's paper was well-received won an award.",
+      "The student whom paper was well-received won an award.",
+      "The student, whose, paper was well-received, won an award."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence with correct pronoun reference for a singular subject.",
+    "options": [
+      "Each of the players must bring their own equipment.",
+      "Each of the players must bring his own equipment.",
+      "Each of the players must bring their own equipment.",
+      "Each of the players must bring his or her own equipment."
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Which sentence correctly uses a demonstrative pronoun?",
+    "options": [
+      "These is my favorite novels.",
+      "These are my favorite novels.",
+      "Those are my favorite novels.",
+      "This are my favorite novels."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence properly uses the indefinite pronoun 'each'?",
+    "options": [
+      "Each of the books are on sale.",
+      "Each of the books is on sale.",
+      "Each of the books have been sold.",
+      "Each of the books were on sale."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence that correctly uses a reciprocal pronoun.",
+    "options": [
+      "The teammates congratulated each other after the game.",
+      "The teammates congratulated one another after the game.",
+      "The teammates congratulated themselves after the game.",
+      "The teammates congratulated each other and one another after the game."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence demonstrates correct subject-verb agreement with a collective noun?",
+    "options": [
+      "The team are winning the game.",
+      "The team is winning the game.",
+      "The team were winning the game.",
+      "The team be winning the game."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence with correct subject-verb agreement using an indefinite pronoun.",
+    "options": [
+      "Everyone have finished the test.",
+      "Everyone has finished the test.",
+      "Everyone are finished the test.",
+      "Everyone finish the test."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly matches a singular subject with a singular verb?",
+    "options": [
+      "The list of items are on the desk.",
+      "The list of items is on the desk.",
+      "The list of items were on the desk.",
+      "The list of items be on the desk."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Choose the sentence with correct agreement when subjects are connected by 'or'.",
+    "options": [
+      "Either the teachers or the principal are responsible.",
+      "Either the teachers or the principal is responsible.",
+      "Either the teachers or the principal were responsible.",
+      "Either the teachers or the principal be responsible."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence demonstrates correct subject-verb agreement with collective nouns?",
+    "options": [
+      "The jury deliberates for hours before reaching a verdict.",
+      "The jury deliberate for hours before reaching a verdict.",
+      "The jury are deliberating for hours before reaching a verdict.",
+      "The jury were deliberating for hours before reaching a verdict."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence with correct subject-verb agreement in a 'there is/are' construction.",
+    "options": [
+      "There is many challenges to overcome.",
+      "There are many challenges to overcome.",
+      "There is a lot of challenges to overcome.",
+      "There be many challenges to overcome."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly agrees subject and verb in a sentence with an intervening phrase?",
+    "options": [
+      "The book, along with the magazines, are on the table.",
+      "The book, along with the magazines, is on the table.",
+      "The book, along with the magazines, were on the table.",
+      "The book, along with the magazines, be on the table."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence demonstrates correct subject-verb agreement with a plural subject?",
+    "options": [
+      "The students in the class enjoys the lecture.",
+      "The students in the class enjoy the lecture.",
+      "The students in the class is enjoying the lecture.",
+      "The students in the class were enjoying the lecture."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Select the sentence with correct subject-verb agreement in a complex construction involving 'neither/nor'.",
+    "options": [
+      "Neither the teacher nor the students is ready for the exam.",
+      "Neither the teacher nor the students are ready for the exam.",
+      "Neither the teacher nor the students be ready for the exam.",
+      "Neither the teacher nor the students were ready for the exam."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence demonstrates correct subject-verb agreement with a singular indefinite pronoun?",
+    "options": [
+      "Each of the cookies were eaten.",
+      "Each of the cookies was eaten.",
+      "Each of the cookies are eaten.",
+      "Each of the cookies be eaten."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly uses the idiom 'kick the bucket'?",
+    "options": [
+      "When he got sick, he kicked the bucket.",
+      "When he got sick, he really kicked the bucket.",
+      "When he got sick, he has kicked the bucket.",
+      "When he got sick, he will kick the bucket."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly uses the phrasal verb 'look forward to'?",
+    "options": [
+      "I look forward to meet you tomorrow.",
+      "I look forward to meeting you tomorrow.",
+      "I look forward to meet with you tomorrow.",
+      "I look forward meeting you tomorrow."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence with the correct usage of the idiom 'spill the beans'.",
+    "options": [
+      "He accidentally spilled the beans about the surprise party.",
+      "He accidentally spilled some beans about the surprise party.",
+      "He accidentally spilled the bean about the surprise party.",
+      "He accidentally spilled beans about the surprise party."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence uses the phrasal verb 'run out of' correctly?",
+    "options": [
+      "We ran out of time during the exam.",
+      "We run out of time during the exam.",
+      "We ran out time during the exam.",
+      "We are run out of time during the exam."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly uses the idiom 'bite the bullet'?",
+    "options": [
+      "She decided to bite the bullet and finish her assignment despite the difficulties.",
+      "She decided to bite the bullet and finishing her assignment despite the difficulties.",
+      "She decided to bite the bullet, finishing her assignment despite the difficulties.",
+      "She decided to bite the bullet to finish her assignment despite the difficulties."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence that correctly employs the phrasal verb 'bring up'.",
+    "options": [
+      "Please bring up the topic at the meeting.",
+      "Please bring the topic up at the meeting.",
+      "Please bring up about the topic at the meeting.",
+      "Both A and B are correct."
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Which sentence correctly uses the idiom 'cut corners'?",
+    "options": [
+      "He tends to cut corners when it comes to safety, which often leads to problems.",
+      "He tends to cut the corners when it comes to safety, which often leads to problems.",
+      "He tends to cutting corners when it comes to safety, which often leads to problems.",
+      "He tends to cut corners when it comes to safety, which often causes problems."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly uses the phrasal verb 'carry out'?",
+    "options": [
+      "The scientists carried out an experiment to test the theory.",
+      "The scientists carried an experiment out to test the theory.",
+      "The scientists carried out an experiment testing the theory.",
+      "The scientists carried an experiment testing the theory out."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence with proper usage of the idiom 'under the weather'.",
+    "options": [
+      "I am feeling under the weather today, so I won't attend the meeting.",
+      "I am feeling under the weather today, so I won't attend the meeting's.",
+      "I am feeling weather under today, so I won't attend the meeting.",
+      "I am feeling under weather today, so I won't attend the meeting."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly employs the phrasal verb 'set up'?",
+    "options": [
+      "They set up the conference room for the meeting.",
+      "They set the conference room up for the meeting.",
+      "Both A and B are correct.",
+      "They setup the conference room for the meeting."
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Which sentence correctly uses a subordinate clause to express contrast?",
+    "options": [
+      "Although it was raining, we decided to go for a hike.",
+      "Although it was raining we decided to go for a hike.",
+      "We decided to go for a hike although it was raining.",
+      "Despite it was raining, we decided to go for a hike."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence properly uses a relative clause to add nonessential information?",
+    "options": [
+      "My friend who lives in New York is visiting.",
+      "My friend, who lives in New York, is visiting.",
+      "My friend who lives in New York, is visiting.",
+      "My friend, who lives in New York is visiting."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Identify the sentence that uses an adverbial clause of time correctly.",
+    "options": [
+      "After she finished her homework, she went to bed.",
+      "She went to bed, after she finished her homework.",
+      "After she finished her homework she went to bed.",
+      "She went to bed after she finished her homework."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly uses a complex sentence with a dependent clause first?",
+    "options": [
+      "Before the sun set, we reached the summit.",
+      "We reached the summit before the sun set.",
+      "Before the sun set we reached the summit.",
+      "We reached the summit, before the sun set."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence that correctly uses a correlative conjunction in a complex sentence.",
+    "options": [
+      "Both the manager and the employees, who are on strike, want change.",
+      "Both the manager and the employees are on strike, and want change.",
+      "Both the manager and the employees are on strike and want change.",
+      "Both the manager, and the employees are on strike and want change."
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Which sentence employs a conditional clause in a complex sentence correctly?",
+    "options": [
+      "If it rains, the event will be canceled.",
+      "If it rains the event will be canceled.",
+      "If it rains; the event will be canceled.",
+      "If it rains: the event will be canceled."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence that correctly uses an appositive in a complex sentence.",
+    "options": [
+      "My brother, a skilled guitarist, performed last night.",
+      "My brother a skilled guitarist, performed last night.",
+      "My brother, a skilled guitarist performed last night.",
+      "My brother a skilled guitarist performed, last night."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly integrates multiple clauses without comma splices?",
+    "options": [
+      "She studied hard, she passed the exam, she celebrated afterwards.",
+      "She studied hard; she passed the exam, and she celebrated afterwards.",
+      "She studied hard, passed the exam, and celebrated afterwards.",
+      "She studied hard and she passed the exam, she celebrated afterwards."
+    ],
+    "correct_option": 2
+  },
+  {
+    "question": "Which sentence correctly uses a relative clause with an antecedent?",
+    "options": [
+      "The painting that hangs in the gallery is priceless.",
+      "The painting which hangs in the gallery is priceless.",
+      "The painting, that hangs in the gallery, is priceless.",
+      "The painting, which hangs in the gallery is priceless."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence with a correctly formed compound-complex sentence.",
+    "options": [
+      "Although it was late, we went to the restaurant, and we ordered dessert.",
+      "Although it was late we went to the restaurant and we ordered dessert.",
+      "Although it was late; we went to the restaurant, and ordered dessert.",
+      "Although it was late, we went to the restaurant and ordered dessert."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence uses the word 'ubiquitous' correctly?",
+    "options": [
+      "Smartphones are ubiquitous in modern society.",
+      "Smartphones are unique in modern society.",
+      "Smartphones are rare in modern society.",
+      "Smartphones are absent in modern society."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence that correctly employs the word 'esoteric'.",
+    "options": [
+      "The professor’s lecture was esoteric and hard for most students to understand.",
+      "The professor’s lecture was esoteric and understandable by everyone.",
+      "The professor’s lecture was common and esoteric.",
+      "The professor’s lecture was esoteric, a simple concept."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence uses the term 'perfunctory' appropriately?",
+    "options": [
+      "He gave a perfunctory nod without really listening.",
+      "He gave a perfunctory performance that captivated the audience.",
+      "He performed a perfunctory dance at the concert.",
+      "He gave a perfunctory explanation that lacked detail."
+    ],
+    "correct_option": 3
+  },
+  {
+    "question": "Identify the sentence that correctly uses the word 'cogent'.",
+    "options": [
+      "Her argument was cogent and convinced everyone in the room.",
+      "Her argument was cogent, but unconvincing.",
+      "Her argument was weak and cogent.",
+      "Her argument was irrelevant and cogent."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly employs the word 'anachronistic'?",
+    "options": [
+      "The movie's costumes were anachronistic, reflecting a different era.",
+      "The movie's costumes were modern and anachronistic.",
+      "The movie's costumes were anachronistic in a historical film.",
+      "The movie's costumes were timeless and anachronistic."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence that uses the word 'magnanimous' correctly.",
+    "options": [
+      "Despite the defeat, he was magnanimous in victory.",
+      "Despite the defeat, he was magnanimous towards his opponent.",
+      "Despite the defeat, he was selfish and magnanimous.",
+      "Despite the defeat, he acted magnanimous."
+    ],
+    "correct_option": 1
+  },
+  {
+    "question": "Which sentence correctly uses the word 'equivocate'?",
+    "options": [
+      "When asked directly, he tended to equivocate and avoid giving a straight answer.",
+      "When asked directly, he tended to equivocate by telling the truth.",
+      "When asked directly, he would clearly equivocate his answer.",
+      "When asked directly, he tended to equivocate with enthusiasm."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Identify the sentence that uses the word 'loquacious' appropriately.",
+    "options": [
+      "Her loquacious nature made every conversation engaging.",
+      "Her loquacious silence was noted by everyone.",
+      "Her loquacious behavior was very quiet.",
+      "Her loquacious tone was filled with brevity."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Which sentence correctly employs the word 'proclivity'?",
+    "options": [
+      "He has a proclivity for procrastination.",
+      "He has a proclivity to procrastinate.",
+      "He is known for his proclivity of procrastination.",
+      "He has a proclivity in procrastination."
+    ],
+    "correct_option": 0
+  },
+  {
+    "question": "Choose the sentence that correctly uses the word 'incontrovertible'.",
+    "options": [
+      "The evidence presented was incontrovertible and left no room for doubt.",
+      "The evidence presented was incontrovertible, but dubious.",
+      "The evidence presented was incontrovertible and questionable.",
+      "The evidence presented was incontrovertible, although questionable."
+    ],
+    "correct_option": 0
+  }
 ]
