@@ -1,22 +1,32 @@
 {
     "744871903": {
         "username": "\ud835\ude4f\ud835\ude5a\ud835\ude5c\ud835\ude5a\ud835\ude67",
-        "score": 16
+        "score": 17,
+        "total_answers": 1,
+        "correct_answers": 1
     },
     "870314144": {
         "username": "\ud835\ude69\ud835\ude64\ud835\ude69\ud835\ude5a\ud835\ude62\ud835\ude64",
-        "score": 17
+        "score": 17,
+        "total_answers": 0,
+        "correct_answers": 0
     },
     "8191815468": {
         "username": "Norah",
-        "score": 1
+        "score": 1,
+        "total_answers": 0,
+        "correct_answers": 0
     },
     "136817688": {
         "username": "Channel",
-        "score": 8
+        "score": 8,
+        "total_answers": 0,
+        "correct_answers": 0
     },
     "7661800450": {
         "username": ".",
-        "score": 4
+        "score": 4,
+        "total_answers": 0,
+        "correct_answers": 0
     }
 }
