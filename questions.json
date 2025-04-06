@@ -608,8 +608,7 @@
         "correct_option": "Farther",
         "explanation": "'Farther' for physical distance; 'further' for metaphorical.",
         "correct_option_id": 0
-    }
-    [
+    },
     {
         "id": 221,
         "type": "buttons",
